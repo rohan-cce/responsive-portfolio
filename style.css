@@ -11,6 +11,13 @@ header{
     left: 0;
     width: 100%;
     display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    z-index: 10000;
+    transition: 0.6s;
+}
+header .logo{
+    
 }
 .banner{
     position: relative;
