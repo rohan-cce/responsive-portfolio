@@ -104,3 +104,6 @@ flex-direction: column;
     font-weight: 700;
     text-transform: uppercase;
 }
+.content{
+    max-width: 600px;
+}
