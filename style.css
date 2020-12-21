@@ -168,4 +168,8 @@ flex-direction: column;
     .banner h2{
         font-size: 1.8em;
     }
+    .banner p,
+    .banner .content a{
+        font-size: 1em;
+    }
 }
