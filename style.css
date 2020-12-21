@@ -137,3 +137,6 @@ flex-direction: column;
     flex-direction: column;
     right: 100px;
 }
+.sci li{
+    list-style: none;
+}
