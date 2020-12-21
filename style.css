@@ -96,3 +96,11 @@ flex-direction: column;
 #navigation ul li{
     list-style: none;
 }
+#navigation ul li a{
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
