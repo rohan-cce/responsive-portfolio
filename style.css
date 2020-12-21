@@ -68,6 +68,7 @@ header #toggle:after{
     display: flex;
     align-items: center;
     transition: 0.5s;
+    z-index: 1;
 }
 .banner.active{
     transform: translateX(-400px);
@@ -79,4 +80,5 @@ header #toggle:after{
     width: 400px;
     height: 100vh;
     background: #40c3ff;
+    z-index: 1;
 }
