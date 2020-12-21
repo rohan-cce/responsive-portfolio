@@ -76,7 +76,7 @@ header #toggle:after{
 #navigation{
     position: fixed;
     top: 0;
-    right: 0;
+    right: -200px;
     width: 400px;
     height: 100vh;
     background: #40c3ff;
