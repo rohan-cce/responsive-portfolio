@@ -115,3 +115,8 @@ flex-direction: column;
     color:#40c3ff;
     font-size: 1.2em;
 }
+.content p{
+    font-size: 1.2em;
+    color: #fff;
+    font-weight: 300;
+}
