@@ -26,6 +26,12 @@ header .logo{
     letter-spacing: 2px;
     transition: 0.6s;
 }
+header #toggle{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
 .banner{
     position: relative;
     width: 100%;
