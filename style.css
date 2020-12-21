@@ -72,3 +72,11 @@ header #toggle:after{
 .banner.active{
     transform: translateX(-400px);
 }
+#navigation{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 400px;
+    height: 100vh;
+    background: #40c3ff;
+}
