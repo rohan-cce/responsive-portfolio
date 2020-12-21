@@ -158,3 +158,4 @@ flex-direction: column;
     filter: invert(1);
     mix-blend-mode: difference;
 }
+@media(max-width:767px)
