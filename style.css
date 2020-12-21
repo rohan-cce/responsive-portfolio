@@ -49,7 +49,7 @@ header #toggle:after{
     background: #fff;
 }
 .banner.active header #toggle::before{
-    top: 7px;
+    top: 50%;
 }
 .banner{
     position: relative;
