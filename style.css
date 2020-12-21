@@ -131,3 +131,9 @@ flex-direction: column;
     font-size: 1.2em;
     font-weight: 500;
 }
+.sci{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    right: 100px;
+}
