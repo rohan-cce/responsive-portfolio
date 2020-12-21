@@ -14,9 +14,11 @@ header{
 }
 .banner{
     position: relative;
-    width:100%;
+    width: 100%;
     min-height: 100vh;
     padding: 100px;
-    background: url(1.png);
+    background: url(images/1.png);
     background-size: cover;
+    display: flex;
+    align-items: center;
 }
