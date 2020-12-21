@@ -68,3 +68,6 @@ header #toggle:after{
     display: flex;
     align-items: center;
 }
+.banner.active{
+    transform: translateX(-400px);
+}
