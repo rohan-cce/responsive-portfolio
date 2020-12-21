@@ -81,4 +81,7 @@ header #toggle:after{
     height: 100vh;
     background: #40c3ff;
     z-index: 1;
+    display: grid;
+    place-items: center;
+    transition: 0.5s;
 }
