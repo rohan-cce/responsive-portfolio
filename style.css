@@ -172,4 +172,7 @@ flex-direction: column;
     .banner .content a{
         font-size: 1em;
     }
-}
+    .banner.active{
+        transform: translateX(-250px);
+    }
+} 
