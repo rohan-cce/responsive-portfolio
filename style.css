@@ -156,4 +156,5 @@ flex-direction: column;
 .sci li a img{
     max-width: 20px;
     filter: invert(1);
+    mix-blend-mode: difference;
 }
