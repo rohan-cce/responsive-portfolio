@@ -67,6 +67,7 @@ header #toggle:after{
     background-size: cover;
     display: flex;
     align-items: center;
+    transition: 0.5s;
 }
 .banner.active{
     transform: translateX(-400px);
