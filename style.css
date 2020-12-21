@@ -150,3 +150,10 @@ flex-direction: column;
     background-origin: 1px solid #fff;
     margin: 10px 0 0;
 }
+.sci li a:hover{
+    background: #fff;
+}
+.sci li a img{
+    max-width: 20px;
+    filter: invert(1);
+}
