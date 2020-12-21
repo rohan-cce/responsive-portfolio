@@ -63,7 +63,7 @@ header #toggle:after{
     width: 100%;
     min-height: 100vh;
     padding: 100px;
-    background: url(images/1.png);
+    background: url(images/9.png);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -132,10 +132,14 @@ flex-direction: column;
     font-weight: 500;
 }
 .sci{
-    position: absolute;
-    display: flex;
-    flex-direction: column;
+    /* position: absolute; */
+    
+    /* display: block; */
+    /* flex-direction: column; */
     right: 100px;
+    left: 100px;
+    
+    
 }
 .sci li{
     list-style: none;
