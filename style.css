@@ -40,6 +40,14 @@ header #toggle:before{
     height: 2px;
     background: #fff;
 }
+header #toggle:after{
+    content: '';
+    position: absolute;
+   bottom: 7px;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+}
 .banner{
     position: relative;
     width: 100%;
