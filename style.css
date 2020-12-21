@@ -5,3 +5,10 @@
     box-sizing: border-box;
     font-family: 'Noto Sans JP', sans-serif;
 }
+header{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+}
