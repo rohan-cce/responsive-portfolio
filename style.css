@@ -85,3 +85,11 @@ header #toggle:after{
     place-items: center;
     transition: 0.5s;
 }
+#navigation.active{
+    right: 0;
+}
+#navigation ul{
+position: relative;
+display: flex;
+flex-direction: column;    
+}
